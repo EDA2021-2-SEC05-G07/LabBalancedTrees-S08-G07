@@ -61,7 +61,6 @@ def newAnalyzer():
                                       comparefunction=compareDates)
     return analyzer
 
-
 # Funciones para agregar informacion al catalogo
 
 
